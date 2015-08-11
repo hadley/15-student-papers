@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "# Graphics & computing student paper winners (JSM 2015)\n\nTue Aug 11, 2015, 830-1020, CC-308.\n\n*   PhyViz: Phylogenetic Visualization of Genealogical Information in R. \n  \n    [Lindsay Rutter](https://github.com/lrutter), \n    [Dianne Cook](http://dicook.github.io), \n    [Susan Ruth VanderPlas](https://github.com/srvanderplas)\n  \n    [Paper](https://github.com/lrutter/PhyVizPaper/raw/master/phyViz.pdf) •\n    [Package](https://github.com/dicook/phyViz)\n\n*   Efficient Penalty Search for Multiple Changepoint Detection in Big Data.\n   \n    [Kaylea Haynes](http://www.lancs.ac.uk/~haynesk/), \n    [Idris Eckley](http://www.lancs.ac.uk/~eckley/),\n    [Paul Fearnhead](http://www.maths.lancs.ac.uk/~fearnhea/), Lancaster University\n     \n    [Paper](http://arxiv.org/pdf/1412.3617) •\n    [Package](https://cran.r-project.org/package=changepoint) •\n    [Presentation](http://www.lancs.ac.uk/~haynesk/KayleaHaynes.pdf)\n\n*   An R Package for the Analysis of Spatially Explicit Capture-Recapture Data.\n\n    [Ben Stevenson](http://www.creem.st-and.ac.uk/bens/bcs.html),\n    [David Borchers](http://www.creem.st-and.ac.uk/dlb/dlb.html).\n    \n    [Package](https://github.com/b-steve/admbsecr)\n   \n*   Introducing Statistics with IntRo.\n\n    [Andee Kaplan](http://andeekaplan.com), [Eric Hare](http://erichare.me)\n    \n    [Code](https://github.com/gammarama/intRo) •\n    [Interactive website](http://intro-stats.com)\n",
+    "created" : 1439299964951.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2518145570",
+    "id" : "F8025C78",
+    "lastKnownWriteTime" : 1439301046,
+    "path" : "~/Desktop/15-student-papers/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
