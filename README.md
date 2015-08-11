@@ -2,6 +2,8 @@
 
 Tue Aug 11, 2015, 830-1020, CC-308.
 
+Discussant: Hadley Wickham
+
 *   PhyViz: Phylogenetic Visualization of Genealogical Information in R. 
   
     [Lindsay Rutter](https://github.com/lrutter), 
