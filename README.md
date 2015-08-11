@@ -35,4 +35,5 @@ Discussant: Hadley Wickham
     [Andee Kaplan](http://andeekaplan.com), [Eric Hare](http://erichare.me)
     
     [Code](https://github.com/gammarama/intRo) •
-    [Interactive website](http://intro-stats.com)
+    [Interactive website](http://intro-stats.com) •
+    [Presentation](http://gammarama.github.io/intRo/presentations/jsm-2015/andee/#1)
