@@ -11,7 +11,7 @@ Discussant: Hadley Wickham
     [Susan Ruth VanderPlas](https://github.com/srvanderplas)
   
     [Paper](https://github.com/lrutter/PhyVizPaper/raw/master/phyViz.pdf) •
-    [Package](https://github.com/dicook/phyViz)
+    [Package](https://cran.rstudio.com/web/packages/ggenealogy)
 
 *   Efficient Penalty Search for Multiple Changepoint Detection in Big Data.
    
