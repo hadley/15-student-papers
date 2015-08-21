@@ -4,14 +4,15 @@ Tue Aug 11, 2015, 830-1020, CC-308.
 
 Discussant: Hadley Wickham
 
-*   PhyViz: Phylogenetic Visualization of Genealogical Information in R. 
+*   “Developing Visualization Tools for Genealogical Data in R
   
     [Lindsay Rutter](https://github.com/lrutter), 
     [Dianne Cook](http://dicook.github.io), 
     [Susan Ruth VanderPlas](https://github.com/srvanderplas)
   
-    [Paper](https://github.com/lrutter/PhyVizPaper/raw/master/phyViz.pdf) •
-    [Package](https://cran.rstudio.com/web/packages/ggenealogy)
+    [Paper](rutter.pdf) •
+    [Package](https://cran.rstudio.com/web/packages/ggenealogy) •
+    [Presentation](ggenealogy.pdf)
 
 *   Efficient Penalty Search for Multiple Changepoint Detection in Big Data.
    
